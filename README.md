@@ -293,9 +293,9 @@ Perfect for showcasing skills to companies like Amazon, Microsoft, or any tech-f
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Jose Herrera - hejoric@outlook.com
 
-Project Link: [https://github.com/yourusername/smart-inventory-system](https://github.com/yourusername/smart-inventory-system)
+Project Link: [[https://github.com/yourusername/smart-inventory-system](https://github.com/yourusername/smart-inventory-system)](https://github.com/hejoric/smart-inventory-system)
 
 ---
 
